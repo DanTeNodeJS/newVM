@@ -23,7 +23,7 @@ app.get("/code", async (req , res , next) => {
         console.log('run para')
         let result = vm.run(code);
         console.log('test');
-        res.send(`${para}`);
+        res.send(`${result.}`);
 
     }catch(err){
         res.status(500);
