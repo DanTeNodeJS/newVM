@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.4",
-    "vm2": "^3.9.2"
+    "vm2": "^3.9.6"
   },
   "devDependencies": {},
   "description": ""
